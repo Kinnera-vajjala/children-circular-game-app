@@ -11,7 +11,7 @@ There will be no failures.
 
 5) Use "mvn exec:java" to run the ChildrenCircularGame App on terminal or run the ChildrenCircularGame.main() directly from the IDE .
 The input is taken from the console.
-THe output will get displayed on the console and is also in the log file created (logs/children_circular_game_app.log)
+The output will get displayed on the console and is also in the log file created (logs/children_circular_game_app.log)
 
 Assumptions
 --------------------------
